@@ -1,5 +1,6 @@
 # Maintainer: Tom Swartz <tom.swartz07+aur@gmail.com>
-# Contributor Kuba Serafinowski <zizzfizzix(at)gmail(dot)com>
+# Code hosted: https://github.com/tomswartz07/owncloud-PKGBUILD
+# Previous Contributor Kuba Serafinowski <zizzfizzix(at)gmail(dot)com>
 
 ##############################################################
 #### The section below can be adjusted to suit your needs ####
