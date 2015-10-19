@@ -1,0 +1,29 @@
+pkgbase = owncloud-client-beta
+	pkgdesc = ownCloud client based on mirall. Beta version.
+	pkgver = 2.0.2rc1
+	pkgrel = 2
+	url = http://owncloud.org/
+	install = owncloudclient.install
+	arch = i686
+	arch = x86_64
+	arch = armv7h
+	license = GPL2
+	makedepends = cmake
+	makedepends = qt5-tools
+	depends = qtkeychain-qt5
+	depends = neon
+	depends = qt5-base
+	depends = qtwebkit
+	provides = owncloudcmd
+	provides = ocsync
+	provides = owncloud-client
+	conflicts = owncloud-client-git
+	conflicts = owncloud-client-qt5
+	conflicts = owncloud-client
+	replaces = owncloud-client
+	backup = etc/ownCloud/sync-exclude.lst
+	source = http://download.owncloud.com/desktop/testing/owncloudclient-2.0.2rc1.tar.xz
+	md5sums = 18f0c0bab4248a36f204ea14b7598cd5
+
+pkgname = owncloud-client-beta
+
