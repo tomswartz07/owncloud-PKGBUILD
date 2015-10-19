@@ -16,7 +16,7 @@ _buildtype="Release"
 
 _name=owncloudclient
 pkgname=owncloud-client-beta
-pkgver=1.8.1rc2
+pkgver=2.0.2rc1
 pkgrel=2
 pkgdesc="ownCloud client based on mirall. Beta version."
 arch=('i686' 'x86_64' 'armv7h')
